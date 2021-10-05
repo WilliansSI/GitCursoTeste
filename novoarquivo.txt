@@ -1,3 +1,6 @@
 tem arquivo para enviar prra o servidos?
-:w
+sim 
+então envia o aquivo 
+se não apaga o arquivo?
+
 
